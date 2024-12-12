@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the purpose of a static method in Java?",
+    "options": ["It belongs to the class, not an instance", "It can be overridden", "It can access instance variables", "It can call other non-static methods"],
+    "correctAnswer": "It belongs to the class, not an instance"
+  },
+  {
+    "question": "What is the main difference between TCP and UDP?",
+    "options": ["TCP is connection-oriented, UDP is connectionless", "TCP is faster, UDP is slower", "TCP is used for voice, UDP for video", "TCP supports multicast, UDP does not"],
+    "correctAnswer": "TCP is connection-oriented, UDP is connectionless"
+  },
+  {
+    "question": "Which of these is NOT a valid HTTP status code?",
+    "options": ["200", "404", "505", "800"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Which data structure is used to implement breadth-first search (BFS)?",
+    "options": ["Stack", "Queue", "Binary Tree", "Heap"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "question": "Which of the following is a JavaScript data type?",
+    "options": ["String", "Array", "Object", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is the function of the OSI model's 'Transport Layer'?",
+    "options": ["Routing packets", "Managing sessions", "Reliable data transfer", "Error detection"],
+    "correctAnswer": "Reliable data transfer"
+  },
+  {
+    "question": "What is a primary feature of cloud computing?",
+    "options": ["Elasticity", "Physical hardware", "Single user access", "Fixed resources"],
+    "correctAnswer": "Elasticity"
+  },
+  {
+    "question": "Which sorting algorithm is the simplest to implement?",
+    "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Heap Sort"],
+    "correctAnswer": "Bubble Sort"
+  },
+  {
+    "question": "What is the full form of 'CSS'?",
+    "options": ["Cascading Style Sheets", "Centralized Style Sheets", "Creative Style Sheets", "Common Style Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which of these is a type of NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+    "correctAnswer": "MongoDB"
+  }
+]

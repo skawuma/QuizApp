@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is a popular NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+    "correctAnswer": "MongoDB"
+  },
+  {
+    "question": "Which sorting algorithm is the fastest in the average case?",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Selection Sort"],
+    "correctAnswer": "Quick Sort"
+  },
+  {
+    "question": "What does the acronym 'API' stand for?",
+    "options": ["Application Protocol Interface", "Application Programming Interface", "Active Programming Interface", "Application Process Interface"],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "question": "Which of the following is a valid Java primitive data type?",
+    "options": ["String", "Array", "int", "Object"],
+    "correctAnswer": "int"
+  },
+  {
+    "question": "What is the complexity of the quicksort algorithm in the best case?",
+    "options": ["O(n^2)", "O(log n)", "O(n log n)", "O(n)"],
+    "correctAnswer": "O(n log n)"
+  },
+  {
+    "question": "Which of the following is a Java access modifier?",
+    "options": ["public", "static", "final", "private"],
+    "correctAnswer": "public"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Cascading Syntax Sheets", "Common Style Sheets", "Centralized Style Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the purpose of a router in a network?",
+    "options": ["To connect computers", "To route data between devices", "To encrypt data", "To store data"],
+    "correctAnswer": "To route data between devices"
+  },
+  {
+    "question": "Which of the following is a valid XML tag?",
+    "options": ["<data>", "<xml>", "<document>", "<head>"],
+    "correctAnswer": "<head>"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path in a graph?",
+    "options": ["Dijkstra's Algorithm", "Bubble Sort", "Merge Sort", "DFS"],
+    "correctAnswer": "Dijkstra's Algorithm"
+  }
+]

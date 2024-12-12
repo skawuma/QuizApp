@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is NOT a feature of a relational database?",
+    "options": ["Tables", "Primary Keys", "Foreign Keys", "Flexibility in data storage"],
+    "correctAnswer": "Flexibility in data storage"
+  },
+  {
+    "question": "What is the time complexity of a bubble sort algorithm?",
+    "options": ["O(n)", "O(n^2)", "O(n log n)", "O(log n)"],
+    "correctAnswer": "O(n^2)"
+  },
+  {
+    "question": "Which programming language is used in Android development?",
+    "options": ["Swift", "Java", "Python", "C++"],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "Which data structure is used in a breadth-first search (BFS)?",
+    "options": ["Queue", "Stack", "Linked List", "Heap"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "question": "What is the output of the expression '5 + 5 * 2' in Java?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "What does the acronym 'URL' stand for?",
+    "options": ["Uniform Resource Locator", "Uniform Request Locator", "Universal Resource Locator", "Universal Request Locator"],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which of these is used to convert a string into a number in JavaScript?",
+    "options": ["parseInt()", "toNumber()", "parseFloat()", "convertNumber()"],
+    "correctAnswer": "parseInt()"
+  },
+  {
+    "question": "Which of the following algorithms is a greedy algorithm?",
+    "options": ["Dijkstra's Algorithm", "Knapsack Problem", "Quick Sort", "Prim's Algorithm"],
+    "correctAnswer": "Prim's Algorithm"
+  },
+  {
+    "question": "Which type of database is MongoDB?",
+    "options": ["Relational", "NoSQL", "Object-Oriented", "Graph"],
+    "correctAnswer": "NoSQL"
+  },
+  {
+    "question": "Which of the following languages is primarily used for iOS development?",
+    "options": ["Swift", "Java", "Objective-C", "C#"],
+    "correctAnswer": "Swift"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is an example of a stack operation?",
+    "options": ["push", "pop", "peek", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is the default value of an uninitialized local variable in Java?",
+    "options": ["null", "0", "false", "undefined"],
+    "correctAnswer": "undefined"
+  },
+  {
+    "question": "Which HTML element is used to define a hyperlink?",
+    "options": ["<link>", "<a>", "<href>", "<url>"],
+    "correctAnswer": "<a>"
+  },
+  {
+    "question": "Which is the correct way to declare an array in Java?",
+    "options": ["int[] arr = new int[5];", "int arr[] = new int[5];", "Both of the above", "None of the above"],
+    "correctAnswer": "Both of the above"
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+    "options": ["Queue", "Array", "Stack", "Linked List"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "question": "Which protocol is used to encrypt data over the internet?",
+    "options": ["FTP", "SMTP", "HTTPS", "POP3"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in an array?",
+    "options": ["O(n)", "O(1)", "O(log n)", "O(n^2)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "question": "Which of the following is a Java framework for building web applications?",
+    "options": ["Spring", "Django", "Flask", "Rails"],
+    "correctAnswer": "Spring"
+  },
+  {
+    "question": "Which type of memory is volatile?",
+    "options": ["ROM", "RAM", "Hard Drive", "CD-ROM"],
+    "correctAnswer": "RAM"
+  },
+  {
+    "question": "Which of the following is a correct HTML comment?",
+    "options": ["<!-- Comment -->", "// Comment", "/* Comment */", "# Comment"],
+    "correctAnswer": "<!-- Comment -->"
+  }
+]

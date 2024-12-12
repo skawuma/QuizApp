@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(log n^2)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "question": "Which of the following is a type of database normalization?",
+    "options": ["First Normal Form", "Bubble Sort", "Merge Sort", "Quick Sort"],
+    "correctAnswer": "First Normal Form"
+  },
+  {
+    "question": "What does the acronym HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "Hyper Transfer Text Protocol", "High Transfer Text Protocol", "HyperText Transaction Protocol"],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which sorting algorithm has the best worst-case time complexity?",
+    "options": ["Merge Sort", "Bubble Sort", "Insertion Sort", "Selection Sort"],
+    "correctAnswer": "Merge Sort"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Structured Question Language", "Simple Question Language"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "question": "What is the full form of DNS?",
+    "options": ["Domain Name System", "Dynamic Name Server", "Data Network Service", "Domain Network System"],
+    "correctAnswer": "Domain Name System"
+  },
+  {
+    "question": "Which of these is an example of a non-primitive data type?",
+    "options": ["int", "char", "float", "Array"],
+    "correctAnswer": "Array"
+  },
+  {
+    "question": "Which of the following is a characteristic of Object-Oriented Programming?",
+    "options": ["Encapsulation", "Compilation", "Preprocessing", "Linking"],
+    "correctAnswer": "Encapsulation"
+  },
+  {
+    "question": "What is the default port number for HTTP?",
+    "options": ["8080", "80", "443", "21"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Which programming language is known as the mother of all languages?",
+    "options": ["C", "Java", "Python", "Assembly"],
+    "correctAnswer": "C"
+  }
+]

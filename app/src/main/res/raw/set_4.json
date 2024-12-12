@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which programming paradigm does Java support?",
+    "options": ["Object-Oriented", "Functional", "Procedural", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is the primary purpose of an operating system?",
+    "options": ["To manage hardware resources", "To execute applications", "To store files", "To manage network connections"],
+    "correctAnswer": "To manage hardware resources"
+  },
+  {
+    "question": "What is the full form of IP in networking?",
+    "options": ["Internet Protocol", "Internal Protocol", "Internet Process", "Integrated Protocol"],
+    "correctAnswer": "Internet Protocol"
+  },
+  {
+    "question": "Which language is used for web development?",
+    "options": ["JavaScript", "Python", "Java", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a relational database?",
+    "options": ["MySQL", "MongoDB", "Cassandra", "Redis"],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "question": "Which of the following data structures is used to implement recursion?",
+    "options": ["Queue", "Array", "Stack", "Linked List"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "question": "Which of these is an example of a server-side scripting language?",
+    "options": ["HTML", "JavaScript", "PHP", "CSS"],
+    "correctAnswer": "PHP"
+  },
+  {
+    "question": "Which algorithm is commonly used in network routing protocols?",
+    "options": ["Dijkstra's Algorithm", "Merge Sort", "Insertion Sort", "Heap Sort"],
+    "correctAnswer": "Dijkstra's Algorithm"
+  },
+  {
+    "question": "Which data structure allows insertion and deletion from both ends?",
+    "options": ["Stack", "Queue", "Deque", "Linked List"],
+    "correctAnswer": "Deque"
+  },
+  {
+    "question": "Which of the following is a characteristic of a blockchain?",
+    "options": ["Decentralized", "Scalable", "Encrypted", "All of the above"],
+    "correctAnswer": "All of the above"
+  }
+]

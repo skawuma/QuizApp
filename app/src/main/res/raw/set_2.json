@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which algorithm is used in the 'find' operation of disjoint sets?",
+    "options": ["DFS", "Union-Find", "Dijkstra", "Kruskal"],
+    "correctAnswer": "Union-Find"
+  },
+  {
+    "question": "What is the purpose of the 'else' statement in a for loop?",
+    "options": ["To execute after the loop finishes normally", "To break the loop", "To iterate the loop again", "To stop the loop immediately"],
+    "correctAnswer": "To execute after the loop finishes normally"
+  },
+  {
+    "question": "Which of the following is NOT a valid HTML tag?",
+    "options": ["<div>", "<header>", "<span>", "<ul>"],
+    "correctAnswer": "<ul>"
+  },
+  {
+    "question": "What does TCP/IP stand for?",
+    "options": ["Transmission Control Protocol/Internet Protocol", "Transport Control Protocol/Internet Protocol", "Transmission Control Protocol/Internal Protocol", "Transport Communication Protocol/Internet Protocol"],
+    "correctAnswer": "Transmission Control Protocol/Internet Protocol"
+  },
+  {
+    "question": "Which of these is a type of machine learning?",
+    "options": ["Reinforcement Learning", "Object-Oriented Programming", "Linear Regression", "Binary Search"],
+    "correctAnswer": "Reinforcement Learning"
+  },
+  {
+    "question": "Which data structure is used in implementing recursive algorithms?",
+    "options": ["Array", "Stack", "Queue", "Linked List"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "question": "Which of the following is the primary purpose of a compiler?",
+    "options": ["Translate high-level code to machine code", "Execute code directly", "Parse code to find errors", "Create executable files"],
+    "correctAnswer": "Translate high-level code to machine code"
+  },
+  {
+    "question": "What is an example of a hash function?",
+    "options": ["SHA-256", "Quick Sort", "Binary Search", "Merge Sort"],
+    "correctAnswer": "SHA-256"
+  },
+  {
+    "question": "Which of the following is a cloud computing service model?",
+    "options": ["IaaS", "HTML", "CSS", "OS"],
+    "correctAnswer": "IaaS"
+  },
+  {
+    "question": "What does the 'git status' command show?",
+    "options": ["Changes made in the current branch", "Commit history", "Staged files", "All remote branches"],
+    "correctAnswer": "Changes made in the current branch"
+  }
+]

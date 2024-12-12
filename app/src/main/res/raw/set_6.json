@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is used to uniquely identify a record in a database?",
+    "options": ["Primary Key", "Foreign Key", "Unique Key", "Composite Key"],
+    "correctAnswer": "Primary Key"
+  },
+  {
+    "question": "Which sorting algorithm is based on divide and conquer technique?",
+    "options": ["Quick Sort", "Bubble Sort", "Selection Sort", "Insertion Sort"],
+    "correctAnswer": "Quick Sort"
+  },
+  {
+    "question": "Which of the following is NOT an Object-Oriented Programming concept?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation", "Algorithm"],
+    "correctAnswer": "Algorithm"
+  },
+  {
+    "question": "What does the acronym 'XML' stand for?",
+    "options": ["Xtreme Markup Language", "Extended Markup Language", "Extensible Markup Language", "Extra Markup Language"],
+    "correctAnswer": "Extensible Markup Language"
+  },
+  {
+    "question": "Which of these is used to style web pages?",
+    "options": ["HTML", "JavaScript", "CSS", "PHP"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "question": "Which type of testing is done to check the individual components of a system?",
+    "options": ["Unit Testing", "Integration Testing", "System Testing", "Acceptance Testing"],
+    "correctAnswer": "Unit Testing"
+  },
+  {
+    "question": "Which of these is NOT a version control system?",
+    "options": ["Git", "SVN", "Mercurial", "Jenkins"],
+    "correctAnswer": "Jenkins"
+  },
+  {
+    "question": "Which algorithm is used for searching a sorted array?",
+    "options": ["Binary Search", "Linear Search", "DFS", "BFS"],
+    "correctAnswer": "Binary Search"
+  },
+  {
+    "question": "Which of the following is a cloud computing platform?",
+    "options": ["Google Cloud", "Docker", "Ansible", "Jenkins"],
+    "correctAnswer": "Google Cloud"
+  },
+  {
+    "question": "Which of these is the latest version of the Java programming language?",
+    "options": ["Java 7", "Java 8", "Java 11", "Java 17"],
+    "correctAnswer": "Java 17"
+  }
+]

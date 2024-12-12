@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which type of network is used to connect devices within a small geographic area?",
+    "options": ["LAN", "WAN", "MAN", "PAN"],
+    "correctAnswer": "LAN"
+  },
+  {
+    "question": "Which of the following is NOT a Java data type?",
+    "options": ["String", "Integer", "boolean", "text"],
+    "correctAnswer": "text"
+  },
+  {
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": ["false", "true", "0", "null"],
+    "correctAnswer": "false"
+  },
+  {
+    "question": "Which command is used to initialize a Git repository?",
+    "options": ["git init", "git start", "git create", "git begin"],
+    "correctAnswer": "git init"
+  },
+  {
+    "question": "Which of the following is a machine learning library?",
+    "options": ["TensorFlow", "OpenCV", "React", "jQuery"],
+    "correctAnswer": "TensorFlow"
+  },
+  {
+    "question": "Which of these is an example of a functional programming language?",
+    "options": ["Haskell", "Java", "C#", "C"],
+    "correctAnswer": "Haskell"
+  },
+  {
+    "question": "Which tag is used for inserting images in HTML?",
+    "options": ["<image>", "<img>", "<src>", "<pic>"],
+    "correctAnswer": "<img>"
+  },
+  {
+    "question": "Which programming language is primarily used for Android development?",
+    "options": ["Java", "C++", "Python", "Swift"],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "What is the time complexity of a binary heap for insertion?",
+    "options": ["O(log n)", "O(n)", "O(1)", "O(n log n)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the internet?",
+    "options": ["FTP", "HTTP", "SMTP", "POP3"],
+    "correctAnswer": "FTP"
+  }
+]

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="8dp"
+    android:backgroundTint="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvSetName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Name"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:ellipsize="end" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:gravity="start">
+
+            <TextView
+                android:id="@+id/tvLastAttemptLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Last Attempted Score:"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tvLastAttemptScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 out of 10"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:gravity="end" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:id="@+id/tvDateTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="06/12/2024 03:58 PM"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="14sp"
+                android:gravity="start" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tvRetryMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Please retry"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="14sp"
+                android:layout_marginStart="8dp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

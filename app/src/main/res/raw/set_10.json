@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["Windows", "Linux", "macOS", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a cloud service model?",
+    "options": ["IaaS", "PaaS", "SaaS", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is NOT a valid SQL command?",
+    "options": ["SELECT", "DELETE", "INSERT", "REMOVE"],
+    "correctAnswer": "REMOVE"
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "CSS", "JavaScript", "PHP"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "question": "Which sorting algorithm has the best worst-case time complexity?",
+    "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Quick Sort"],
+    "correctAnswer": "Merge Sort"
+  },
+  {
+    "question": "Which is the default access modifier in Java?",
+    "options": ["private", "public", "protected", "package-private"],
+    "correctAnswer": "package-private"
+  },
+  {
+    "question": "Which data structure is implemented using an array or a linked list?",
+    "options": ["Queue", "Stack", "Heap", "Graph"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in an array by index?",
+    "options": ["O(n)", "O(1)", "O(log n)", "O(n^2)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "question": "Which of these programming languages is compiled?",
+    "options": ["Python", "Java", "JavaScript", "Ruby"],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "Which of the following is an example of a peer-to-peer network?",
+    "options": ["BitTorrent", "TCP/IP", "HTTP", "DNS"],
+    "correctAnswer": "BitTorrent"
+  }
+]
